@@ -40,7 +40,7 @@ class CountdownTimer {
   }
 }
 
-const myTimer = new CountdownTimer(new Date("Jul 17, 2019"), {
+const myTimer = new CountdownTimer(new Date("Dec 31, 2021"), {
   days,
   hours,
   mins,
